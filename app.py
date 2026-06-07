@@ -1,4 +1,8 @@
 def hello_world():
-    print("Hello World - version 2")
+    message = "Hello Git - version 1"
+    user = "Karolina"
+    print(message)
 
 hello_world()
+
+# funkcja wyświetla komunikat powitalny
