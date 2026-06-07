@@ -1,4 +1,5 @@
 def hello_world():
-    print("Hello World - version 2")
+    message = "Hello World - version 2"
+    print(message)
 
 hello_world()
