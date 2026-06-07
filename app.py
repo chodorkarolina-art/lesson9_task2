@@ -3,3 +3,5 @@ def hello_world():
     print(message)
 
 hello_world()
+
+# funkcja wypisuje tekst na ekran
