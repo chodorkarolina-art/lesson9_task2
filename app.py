@@ -1,7 +1,8 @@
 def hello_world():
-    message = "Hello Git"
+    message = "Hello Git - version 1"
+    user = "Karolina"
     print(message)
 
 hello_world()
 
-# funkcja wypisuje tekst na ekran
+# funkcja wyświetla komunikat powitalny
